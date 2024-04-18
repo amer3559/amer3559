@@ -1,6 +1,4 @@
- 👋 Hi, I’m @amer
-Experienced Full Stack Web Developer with over 3 years of expertise in designing, developing, and deploying web applications. Passionate about creating innovative web solutions using  JavaScript (Vue.js), PHP (Laravel), and WordPress. 
-They consistently deliver high-quality solutions while collaborating with cross-functional teams.  Possesses a deep understanding of the software development life cycle and has a demonstrated ability to translate complex requirements into elegant and efficient code.
+👋 Hello, my name is Amer and I am an experienced Full Stack Web Developer. With over 3 years of expertise, I have a strong background in designing, developing, and deploying web applications. My passion lies in creating innovative web solutions, and I have a particular affinity for using JavaScript (Vue.js), PHP (Laravel), and WordPress to bring these solutions to life.
 
 <!---
 amer3559/amer3559 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
